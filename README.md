@@ -2,6 +2,10 @@
 
 <p>Welcome to the Pokemon Cards React App! This project is a simple web application built using React and Tailwind CSS to display Pokemon cards in groups of three, including their evolution forms. It features navigation through previous and next buttons to explore the Pokemon card collection.</p>
 
+## Demo
+
+<img src="https://github.com/sabberrahman/pokemon-cards/blob/main/public/useHooks-com.png" alt="Preview" width="600" height="416">
+
 <!-- Features -->
 
 <h2>Features</h2>
